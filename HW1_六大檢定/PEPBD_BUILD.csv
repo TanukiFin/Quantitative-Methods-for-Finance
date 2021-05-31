@@ -1,0 +1,64 @@
+"2021/03/23 Stock P/E ratio, dividend yield and P/B ratio"
+"Security Code","Dividend yield (%)","Dividend year","P/E ratio","P/B ratio","Fiscal year / quarter",
+"1316","0.00","2019","59.75","1.13","2020/4",
+"1436","6.25","2019","21.28","1.41","2020/4",
+"1442","5.37","2019","131.79","1.14","2020/3",
+"1805","0.00","2019","-","2.50","2020/4",
+"1808","5.22","2019","179.69","4.19","2020/4",
+"2501","5.12","2019","17.61","0.98","2020/3",
+"2504","1.09","2019","14.23","1.67","2020/3",
+"2505","0.40","2019","5.47","2.21","2020/3",
+"2506","0.00","2019","-","0.54","2020/3",
+"2509","3.70","2019","18.35","0.93","2020/4",
+"2511","4.57","2019","22.35","0.73","2020/4",
+"2515","2.27","2019","25.94","0.68","2020/3",
+"2516","0.00","2019","-","0.63","2020/3",
+"2520","3.83","2019","9.71","1.48","2020/3",
+"2524","0.00","2019","7.50","0.90","2020/3",
+"2527","8.47","2019","17.00","0.82","2020/3",
+"2528","0.00","2019","-","2.04","2020/4",
+"2530","0.71","2019","-","1.26","2020/3",
+"2534","2.67","2019","14.65","0.70","2020/3",
+"2535","4.36","2019","8.80","1.25","2020/4",
+"2536","5.33","2019","10.71","0.62","2020/3",
+"2537","0.00","2019","56.29","0.71","2020/3",
+"2538","4.98","2019","-","0.70","2020/3",
+"2539","8.84","2019","13.81","2.50","2020/3",
+"2540","0.00","2019","14.68","1.96","2020/3",
+"2542","9.27","2019","20.55","1.69","2020/4",
+"2543","0.00","2019","39.17","0.84","2020/3",
+"2545","2.78","2019","9.84","1.29","2020/3",
+"2546","5.92","2019","11.22","1.83","2020/3",
+"2547","5.50","2019","29.21","0.88","2020/3",
+"2548","8.12","2019","9.19","1.47","2020/4",
+"2597","5.28","2019","15.18","3.18","2020/3",
+"2841","0.00","2019","-","0.31","2020/3",
+"2923","6.50","2019","50.44","1.10","2020/4",
+"3052","3.67","2019","5.29","0.91","2020/3",
+"3056","7.04","2019","34.63","2.03","2020/3",
+"3266","3.82","2019","32.75","0.90","2020/4",
+"3703","2.07","2019","12.91","0.84","2020/4",
+"5515","3.71","2019","11.76","0.84","2020/3",
+"5519","7.44","2019","8.77","0.91","2020/4",
+"5521","0.00","2019","3.44","0.83","2020/3",
+"5522","6.75","2019","13.11","1.05","2020/3",
+"5525","5.96","2019","50.70","1.27","2020/3",
+"5531","0.00","2019","37.00","1.35","2020/3",
+"5533","3.07","2019","19.18","0.63","2020/4",
+"5534","7.54","2019","9.82","1.42","2020/3",
+"5546","4.96","2019","11.89","2.34","2020/3",
+"6177","9.62","2019","41.60","2.25","2020/3",
+"9906","0.00","2019","-","5.23","2020/3",
+"9946","9.65","2019","30.00","0.84","2020/4",
+""
+"Note: 
+This webpage has been produced for information purposes only and should not be taken as a recommendation to buy or sell any investment.
+The information on this webpage has been calculated as follows:
+1. The P/E ratio is the ratio of a company・s closing share price divided by its earnings per share (EPS). The EPS is a company・s net income after tax divided by the number of outstanding shares. The P/E ratio is not calculated when a company・s EPS is 0 or less than 0. The net income of listed companies is based on financial statements entered into the TWSE・s Market Observation Post System (MOPS) for the most recent 4 quarters. According to generally accepted accounting principles (GAAP), companies founded on dates other than January 1 shall begin the fiscal year for consolidated financial statements on the date of establishment, rather than the beginning of the calendar year. The calculation of the P/E ratio of the aforementioned companies shall be based on their filed financial statements. For example, in the case of Taiwan Cooperative Financial Holding (stock code: 5880), which was established on December 1, 2011, the calculation of its P/E ratio following its listing uses its net income after tax for the most recent 4 quarters, which in this case would be its net income after tax from December 1 to December 31, 2011.
+2. The dividend yield is the dividend per share, divided by the closing share price multiplied by 100%. The dividend per share is calculated based on recent cash dividends paid out according to the company・s net income per outstanding shares (NT\$ per share) plus stock dividends (NT\$ per share).
+3. The P/B ratio is the ratio of a company・s closing share price divided by its book value per share. The book value per share is based on the book value per share posted on MOPS for the most recent quarter.
+4. The dividend year refers to, for the purpose of calculating the dividend yield, the year for which a company enters its dividend distribution into MOPS. For example, if the dividend year is 2016, then the dividend distribution for 2016 is shown.
+5. The fiscal year/quarter, for the purposes of calculating the P/E and P/B ratios, refers to the fiscal year/quarter in the company・s financial statement entered into MOPS.
+6. The number of outstanding shares reported on this website is calculated from the financial statements posted on MOPS for the most recent quarter regarding a company・s net worth and book value per share. This website does not calculate the P/E and P/B ratios, or will only calculate estimates, for companies who do not post standardized financial statements or post incomplete financial statements into MOPS. The above information on company finances or dividends is based on standardized reporting on MOPS and not real-time information. This website does not provide back-calculations. If the closing share price is not available, the price will be determined by the provisions in Article 58-3, Paragraph 2, Item 2 of the Operating Rules of the Taiwan Stock Exchange Corporation.
+7. Information on dividend year and fiscal year/quarter available after April 12, 2017."
+
